@@ -1,7 +1,7 @@
  # 🔍 Exploratory Data Analysis with SQL : Job Maeket Analysis
 
 
-![Diagram showing a data warehouse with MotherDuck DuckDB storing data science job postings feeding SQL analytics queries that produce insights for top demanded skills, high paying skills, and optimal skills](1_1_Project1_EDA.png)
+![Diagram showing a data warehouse with MotherDuck DuckDB storing data science job postings feeding SQL analytics queries that produce insights for top demanded skills, high paying skills, and optimal skills.](1_1_Project1_EDA.png)
 
 A SQL project analyzing the data engineer job market using real world job posting data. It demonstrates my ability to **write production-quality analytical SQL, design efficient queries, and turn business questions into data-driven insights.**
 
