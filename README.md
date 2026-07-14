@@ -4,7 +4,7 @@ Hands-on projects to reinforce core data engineering concepts from the SQL for D
 
 ## Projects
 
-### [Exploratory Data Analysis](Projects\EDA)
+### [Exploratory Data Analysis](Projects/EDA)
 
 ![Diagram showing a data warehouse with MotherDuck DuckDB storing data science job postings feeding SQL analytics queries that produce insights for top demanded skills, high paying skills, and optimal skills](Projects/EDA/1_1_Project1_EDA.png)
 
