@@ -10,4 +10,4 @@ Hands-on projects to reinforce core data engineering concepts from the SQL for D
 
 SQL-driven analysis of data engineer job market trends using advanced querying techniques.
 
-Skills: Complex joins, aggregations, analytical functions, data quality validation
+Skills: `Complex joins`, `aggregations`, `analytical functions`, `data quality validation`
